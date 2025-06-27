@@ -1,0 +1,11 @@
+# Default number of homes for players without any special permissions
+default-max-homes: 2
+
+# Permission-based home limits (this can be a maximum of 14 for the GUI support)
+permissions:
+    homes.vip:
+      max-homes: 3
+    home.vipplus:
+      max-homes: 5
+    home.elite:
+      max-homes: 7
